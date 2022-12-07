@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6285795025536@s.whatsapp.net","6285860458402@s.whatsapp.net"],
+    "ownerName": "Sachi Kanai",
+    "instagram" : "https://instagram.com/devitacans06?igshid=YmMyMTA2M2Y=",
+    "botName": "Sachi Botz",
+    "footer": "Sachi Botz",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
